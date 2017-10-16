@@ -1,1 +1,3 @@
-# WeChatSendMessage
+## Overview
+
+朋友需要给所有微信好友发送信息，给他写的简单脚本。
